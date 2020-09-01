@@ -1,3 +1,12 @@
+# FreeMind Source Code Backup
+
+**The repo is copied from that on sourceforge. The original repo is <http://freemind.sourceforge.net/wiki/index.php/Main_Page>**
+
+## Original readme.txt
+
+Following is the `readme` of original repo:
+
+```text
 /*FreeMind - A Program for creating and viewing Mindmaps
  *Copyright (C) 2005   Christian Foltin.
  *
@@ -31,5 +40,4 @@ ant post
 	- to create a new delivery version
 ant run
 	- to start FreeMind from the sources.
-	
-	
+```
